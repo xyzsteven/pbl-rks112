@@ -18,7 +18,7 @@
 ## Our's Team
 </br>
 <div align="center">
-  <img src="images/ours.png" alt="Logo" width="800" height="512">
+  <img src="images/ours.png" alt="Logo" width="388" height="256">
 </div>
 </br>
 
