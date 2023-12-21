@@ -13,7 +13,7 @@
   </p>
 </div>
 
-## Our's Team
+## Our Teams
 PBL RKS-112
 - Steven Juliano (4332301061)
 - Rey Sastria Harianja (4332301038)
