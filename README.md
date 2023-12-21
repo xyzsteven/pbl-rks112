@@ -10,6 +10,9 @@
   <p align="center">
     "Cryptography Tools with Substitution Cipher"
     <br />
+    <br />
+    <a href="https://youtu.be/qAbRE9xvTXQ"><strong>View Demo »</strong></a>
+    <br />
   </p>
 </div>
 
@@ -23,7 +26,7 @@ PBL RKS-112
 - Akyasa Fikri Ramadhan (4332301055)
 
 ## Background
-Cryptography is the science and practice of protecting data by transforming it into an unintelligible form, so that only a person with the correct key can read or decrypt it. This project aims to develop a cryptography application that allows users to secure text messages with the Substitution Cipher method.
+Cryptography is the science and practice of protecting data by transforming it into an unintelligible form, so that only a person with the correct key can read or decrypt it. This project aims to develop a classic cryptography application that allows users to secure text messages with the cryptography method.
 
 ## About This Project
 The "Cryptography Tool with Substitution Cipher" produces two main outputs: `Encrypted Text` and `Decrypted Text`
@@ -34,3 +37,7 @@ This tool consists of several key components:
 - Substitution Cipher Decryption
 - User Interface
 
+## Tools Used
+- VS Code
+
+- XAMPP
