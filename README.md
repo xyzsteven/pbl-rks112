@@ -17,7 +17,7 @@
 </div>
 
 ## Our Teams
-PBL RKS-112
+PBL-RKS112
 - Steven Juliano (4332301061)
 - Rey Sastria Harianja (4332301038)
 - Firdiansyah (4332301048)
@@ -28,16 +28,46 @@ PBL RKS-112
 ## Background
 Cryptography is the science and practice of protecting data by transforming it into an unintelligible form, so that only a person with the correct key can read or decrypt it. This project aims to develop a classic cryptography application that allows users to secure text messages with the cryptography method.
 
-## About This Project
-The "Cryptography Tool with Substitution Cipher" produces two main outputs: `Encrypted Text` and `Decrypted Text`
+## Features
+1. User Interface
+   - Clean and intuitive UI design using Tkinter with navigation menus are available to facilitate user movement between pages.
+2. User Authentication
+   - Implementation of user login and registration with data processing through a MySQL database with system provides notifications to users in case of login or registration errors.
+3. Clipboard Integration
+   - Facility to copy-paste text to and from the clipboard and users can easily input text for encryption or get decryption results to or from the clipboard.
 
-This tool consists of several key components:
-- Sign In & Sign Up Components
-- Substitution Cipher Encryption
-- Substitution Cipher Decryption
-- User Interface
+## Getting Started
+### Prerequisites
 
-## Tools Used
-- VS Code
+- Python 3 `or use` VS Code (for edit and run debugging the Python script)
+- XAMPP (for running MySQL in localhost)
+- MySQL server
+- Tkinter library
+- Pyperclip library
 
-- XAMPP
+### Installation
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/yourusername/pbl-rks112.git
+   ```
+   ```
+   cd pbl-rks112
+   ```
+   or
+   Download manually the `pbl-rks112.py` file in main repository
+
+2. Install additional Pyhton Library:
+
+   ```
+   pip install mysql-connector-python pyperclip
+   ```
+3. Install XAMPP and start MySQL module in XAMPP Control Panel
+3. Run the script:
+   
+   ```
+   python pbl-rks112.py
+   ```
+   or
+   Manually run the `pbl-rks112.py` in VS Code with `Start Debugging` function
