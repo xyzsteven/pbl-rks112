@@ -39,7 +39,7 @@ Cryptography is the science and practice of protecting data by transforming it i
 ## Getting Started
 ### Prerequisites
 
-- Python 3 `or use` VS Code (for edit and run debugging the Python script)
+- Python 3 **or use** VS Code (for edit and run debugging the Python script)
 - XAMPP (for running MySQL in localhost)
 - MySQL server
 - Tkinter library
@@ -70,4 +70,4 @@ Cryptography is the science and practice of protecting data by transforming it i
    python pbl-rks112.py
    ```
    or
-   Manually run the `pbl-rks112.py` in VS Code with `Start Debugging` function
+   Manually run the `pbl-rks112.py` in VS Code with **Start Debugging** function
