@@ -63,7 +63,7 @@ Cryptography is the science and practice of protecting data by transforming it i
    ```
    pip install mysql-connector-python pyperclip
    ```
-3. Install XAMPP and start MySQL module in XAMPP Control Panel
+3. Start MySQL module in XAMPP Control Panel
 3. Run the script:
    
    ```
